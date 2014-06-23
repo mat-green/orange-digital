@@ -1,0 +1,6 @@
+# Eclipse IDE generate files and folders
+.project
+.pydevproject
+.settings
+# Python generated files
+*.pyc
